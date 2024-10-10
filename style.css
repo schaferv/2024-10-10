@@ -1,32 +1,45 @@
 body {
 background-color: #eee;
 font-family: Trebuchet MS;
-width: 600px;
-margin: auto;
-padding: 20px;
+text-align: justify;
 }
 
 main {
+border: 2px solid #999;
+border-radius: 10px;
+width: 600px;
+margin: auto;
+padding: 20px;
 
+}
+
+header {
+    border: 2px solid #999;
+    height: 150px;
+    margin-bottom: 10px;
 
 }
 
 nav {
-
+border: 2px solid #999;
+margin-bottom: 10px;
 
 }
 
 section {
-
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
+    padding: 20px;
 }
 
 aside {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 
 }
 
 footer {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 
 }
